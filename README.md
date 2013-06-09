@@ -1,0 +1,1 @@
+A lot of people in the job interviews was confused by this question - is this application uses MVC pattern?
